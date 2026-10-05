@@ -14,7 +14,7 @@
 | **Leader** | Temur Shirinboyev | 202490298 | I-24A |
 | **Member** | Suxrob Hazratqulov | 202490129 | I-24C |
 | **Member** | Elbek Ismoilov | 202490143 | I-24C |
-| **Member** | Behruz Abdullayev | 202490012 | I-24C | *(Note: Confirm exact group if different)* |
+| **Member** | Behruz Abdullayev | 202490012 | I-24A | *(Note: Confirm exact group if different)* |
 
 ---
 
